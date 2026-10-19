@@ -28,6 +28,8 @@ Iniciar la aplicación:
 
     python -m streamlit run app.py
 
-## Enlace de la aplicación en Render
+## Aplicación desplegada
 
-Pendiente de publicación.
+Puedes consultar la aplicación aquí:
+
+[Ver aplicación en Render](https://proyecto-vehiculos-2ip7.onrender.com/)
